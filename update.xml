@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <appName>Ultimate Whatsapp Theme Engine</appName>
+    <appDescription>Theme Engine Updater</appDescription>
+    <packageName>in.proficientapps.uwte</packageName>
+    <versionCode>2</versionCode>
+    <versionName>2.0</versionName>
+    <forceUpdate>false</forceUpdate>
+    <autoUpdate>false</autoUpdate>
+    <apkUrl>http://178.33.61.6/putstorage/DownloadFileHash/09B818593A5A4A5QQWE2828513EWQS/app-debug.apk</apkUrl>
+    <updateTips>
+        <default>Change-log:\n\nAdded support for Pro Version Activation.</default>
+    </updateTips>
+</updateInfo>
